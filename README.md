@@ -25,11 +25,17 @@
 
 # Tech Stack
 [Programming Language: Python]
+
 [Frameworks: TensorFlow, Keras]
+
 [Models: Custom CNN, VGG]
+
 [Libraries: NumPy, Pandas, Matplotlib, OpenCV]
+
 [Development Environment: Jupyter Notebook, Google Colab]
+
 [Version Control: Git, GitHub]
+
 [Data Processing: Scikit-learn, PIL]
 
 # Leaf_Datasets
