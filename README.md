@@ -23,6 +23,15 @@
 
 [Keywords: Medicinal plants, Deep learning, TensorFlow, Keras, CNN, VGG, Plant identification, Image classification.]
 
+# Tech Stack
+[Programming Language: Python]
+[Frameworks: TensorFlow, Keras]
+[Models: Custom CNN, VGG]
+[Libraries: NumPy, Pandas, Matplotlib, OpenCV]
+[Development Environment: Jupyter Notebook, Google Colab]
+[Version Control: Git, GitHub]
+[Data Processing: Scikit-learn, PIL]
+
 # Leaf_Datasets
 [Leaf_Dataset](https://drive.google.com/drive/folders/1xrB_bc9L0YErlfFpzPdjagdhjEFHH_aP?usp=sharing)
 # Plant_Datasets
