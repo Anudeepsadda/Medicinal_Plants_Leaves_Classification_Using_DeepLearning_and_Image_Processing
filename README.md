@@ -55,6 +55,8 @@ Data Processing: Scikit-learn, PIL
 
 # Leaf_Datasets
 [Leaf_Dataset](https://drive.google.com/drive/folders/1xrB_bc9L0YErlfFpzPdjagdhjEFHH_aP?usp=sharing)
+[Leaf_csv](https://drive.google.com/file/d/1Dwl2bxq00G1YJj2EkF8EAoUb1I3nJWT4/view?usp=sharing)
 
 # Plant_Datasets
 [Plant_Dataset](https://drive.google.com/drive/folders/12_XH8esSBLwI03U6KqmKWQ2LXsdyf7uy?usp=sharing)
+[Plant_csv](https://drive.google.com/file/d/1vSDl77BO7Mnn5XwHyM4PpU2KT9P2IV_u/view?usp=sharing)
